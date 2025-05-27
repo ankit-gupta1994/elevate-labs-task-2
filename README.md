@@ -7,6 +7,7 @@ Steps Performed:
 2) Checked the datatype of all columns.
 3) Loaded the data in Power BI and created a dashboard.
 4) Created one custom column of Delivery time to calculate the average delivery time.
+5) Added one slicer to visualize the data according to region.
 
 Insights from Dashboard:
 1) Most of the sales are made with cash.
